@@ -7,5 +7,5 @@
 
 
 # Flow Utils
-![Ours](image/ours.png)
-![MPI-Sintel](image/mpi-sintel.png)
+![Ours](./images/ours.png)
+![MPI-Sintel](./images/mpi-sintel.png)
